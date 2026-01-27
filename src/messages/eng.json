@@ -1,0 +1,141 @@
+{
+  "Header": {
+    "link-1": "About",
+    "link-2": "Experience",
+    "link-3": "Projects",
+    "link-4": "Contact"
+  },
+  "Introduction": {
+    "badge": "Hi, I'm",
+    "name": "Vasanthakumar Durairaj",
+    "role": "Full-Stack Developer",
+    "body": "A software developer building <strong>end-to-end solutions</strong> using JavaScript, React, Next.js, Node.js, and modern web technologies.",
+    "cta": "Explore my projects"
+  },
+  "About": {
+    "title": "About Me",
+    "paragraph-1": "I'm a <strong>Full-Stack Developer</strong> who builds <strong>end-to-end web applications</strong> using modern JavaScript technologies.",
+    "paragraph-2": "I focus on creating clean, scalable, and user-friendly applications by working across both front-end and back-end layers. I enjoy solving real-world problems and turning ideas into working products.",
+    "paragraph-3": "I work with <strong>Next.js, React, Node.js, Express, MongoDB, and Tailwind CSS</strong>, and I’m comfortable handling APIs, authentication, database design, and deployment workflows.",
+    "paragraph-4": "I enjoy understanding how systems work internally and building projects that are reliable, maintainable, and performance-focused.",
+    "paragraph-5": "Outside of coding, I enjoy learning new technologies, improving my problem-solving skills, and continuously growing as a developer."
+  },
+  "Projects": {
+    "title": "Personal & Practice Projects",
+    "items": {
+      "watch": {
+        "title": "VEERAA WATCH",
+        "description": "A responsive video streaming web app inspired by YouTube. Built using React JS, React Router, authentication, protected routes, and API integration with a clean UI.",
+        "link": "veerawt.ccbp.tech",
+        "username": "rahul",
+        "password": "rahul@2021"
+      },
+      "hrms_model": {
+        "title": "HRMS Model App (Company Assignment)",
+        "description": "A company assignment project built based on the required features: JWT token authentication, clean REST API integration, employee management, team tracking, complete CRUD operations, and a welcome dashboard. Developed as a complete full-stack application with both frontend and backend using Supabase for database + API handling.",
+        "link": "hrms-model.vercel.app"
+      },
+      "ecommerce": {
+        "title": "E-Commerce Web Application",
+        "description": "A full-stack e-commerce platform with product listings, authentication, cart functionality, admin dashboard, and payment flow integration.",
+        "link": "veeraa-trendz.vercel.app",
+        "username": "rahul",
+        "password": "rahul@2021"
+      },
+      "assees": {
+        "title": "Veeraa-Assess Web App",
+        "description": "Assess App is a React-based assessment platform with JWT authentication and a built-in timer, providing a secure, responsive, and reliable environment for managing exams and protecting assessment data.",
+        "link": "veeraaedu.ccbp.tech",
+        "username": "rahul",
+        "password": "rahul@2021"
+      }
+    },
+    "more": {
+      "text": "You can find more projects and source code on my GitHub profile.",
+      "link": "View my GitHub work"
+    }
+  },
+  "FeaturedProject": {
+    "title": "Project"
+  },
+  "Contact": {
+    "title": "Contact Me",
+    "intro": "If you’d like to collaborate or discuss an opportunity,",
+    "cta": "you can reach me via email or through the links below."
+  },
+  "EnterpriseSummary": {
+    "title": "Work Experience",
+    "items": {
+      "developer": {
+        "titlePrefix": "Full-Stack Developer —",
+        "titleOrg": "Personal & Freelance Projects",
+        "meta": "2023 – Present",
+        "bullets": [
+          "Designed and developed full-stack applications using React, Next.js, Node.js, and MongoDB.",
+          "Implemented authentication, REST APIs, database schemas, and deployment workflows.",
+          "Focused on performance optimization, clean UI, and maintainable code structure."
+        ],
+        "tags": [
+          "JavaScript",
+          "React",
+          "Next.js",
+          "Node.js",
+          "MongoDB",
+          "Tailwind CSS"
+        ]
+      },
+      "learning": {
+        "titlePrefix": "Self-Taught Developer —",
+        "titleOrg": "Online Platforms & Practice",
+        "meta": "2021 – 2023",
+        "bullets": [
+          "Learned full-stack development through hands-on projects and structured courses.",
+          "Built multiple practice applications to strengthen front-end and back-end skills.",
+          "Improved problem-solving by working on real-world inspired features."
+        ],
+        "tags": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+      }
+    }
+  },
+
+  "Skills": {
+    "title": "Tech Arsenal",
+    "items": [
+      { "name": "JavaScript", "label": "JavaScript", "icon": "/skills/js.png" },
+      { "name": "TypeScript", "label": "TypeScript", "icon": "/skills/ts.png" },
+      {
+        "name": "Tailwind",
+        "label": "Tailwind",
+        "icon": "/skills/tailwind.png"
+      },
+      { "name": "SCSS", "label": "SCSS", "icon": "/skills/scss.png" },
+      { "name": "Framer", "label": "Framer", "icon": "/skills/framer.png" },
+      { "name": "React", "label": "React", "icon": "/skills/react.png" },
+
+      { "name": "Redux", "label": "Redux", "icon": "/skills/redux.png" },
+      { "name": "Next.js", "label": "Next.js", "icon": "/skills/next.png" },
+      { "name": "Node.js", "label": "Node.js", "icon": "/skills/node.png" },
+      { "name": "Express", "label": "Express", "icon": "/skills/express.png" },
+      { "name": "MongoDB", "label": "MongoDB", "icon": "/skills/mongodb.png" },
+      {
+        "name": "Supabase",
+        "label": "Supabase",
+        "icon": "/skills/supabase.png"
+      },
+
+      { "name": "Sanity", "label": "Sanity", "icon": "/skills/sanity.png" },
+      { "name": "Docker", "label": "Docker", "icon": "/skills/docker.png" },
+      { "name": "Vercel", "label": "Vercel", "icon": "/skills/vercel.png" },
+      { "name": "Git", "label": "Git", "icon": "/skills/git.png" },
+      { "name": "Postman", "label": "Postman", "icon": "/skills/postman.png" },
+      {
+        "name": "Cloudflare",
+        "label": "Cloudflare",
+        "icon": "/skills/cloudflare.png"
+      }
+    ]
+  },
+  "Achievements": {
+    "title": "Achievements & Badges"
+  }
+}
