@@ -69,10 +69,11 @@ export default function Introduction() {
 
         <a
           href="/resume/VASANTHAKUMAR_DURAIRAJ__RESUME.pdf"
-          download
+          target="_blank"
+          rel="noopener noreferrer"
           className="font-roboto-mono inline-flex gap-2 rounded border border-slate-800/70 bg-slate-900/60 px-8 py-4 text-slate-300 shadow-xl transition-all duration-300 hover:bg-slate-900/80"
         >
-          Download Resume
+          View Resume
           <ReactSVG
             src="/svg/link.svg"
             className="fill-current text-slate-300"
