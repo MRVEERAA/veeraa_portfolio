@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
 
-import logo from "../../../public/VEERAA.png";
+import logo from "../../../public/Home_Logo.png";
 import { smoothScroll } from "../utilities/scroll";
 
 export default function Header() {

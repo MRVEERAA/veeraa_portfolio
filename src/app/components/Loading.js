@@ -7,8 +7,8 @@ export default function Loading() {
       <Image
         src={loadinggif}
         alt="Loading"
-        width={192}
-        height={192}
+        width={400}
+        height={400}
         className="mix-blend-lighten"
         priority
       />
