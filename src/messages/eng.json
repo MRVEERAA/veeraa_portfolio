@@ -31,7 +31,7 @@
         "password": "rahul@2021"
       },
       "hrms_model": {
-        "title": "HRMS Model App (Company Assignment)",
+        "title": "HRMS Model App - Full Stack (Company Assignment)",
         "description": "A company assignment project built based on the required features: JWT token authentication, clean REST API integration, employee management, team tracking, complete CRUD operations, and a welcome dashboard. Developed as a complete full-stack application with both frontend and backend using Supabase for database + API handling.",
         "link": "hrms-model.vercel.app"
       },
