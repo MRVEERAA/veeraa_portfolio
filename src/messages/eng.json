@@ -108,7 +108,6 @@
         "label": "Tailwind",
         "icon": "/skills/tailwind.png"
       },
-      { "name": "SCSS", "label": "SCSS", "icon": "/skills/scss.png" },
       { "name": "Framer", "label": "Framer", "icon": "/skills/framer.png" },
       { "name": "React", "label": "React", "icon": "/skills/react.png" },
 
@@ -122,17 +121,9 @@
         "label": "Supabase",
         "icon": "/skills/supabase.png"
       },
-
-      { "name": "Sanity", "label": "Sanity", "icon": "/skills/sanity.png" },
-      { "name": "Docker", "label": "Docker", "icon": "/skills/docker.png" },
       { "name": "Vercel", "label": "Vercel", "icon": "/skills/vercel.png" },
       { "name": "Git", "label": "Git", "icon": "/skills/git.png" },
-      { "name": "Postman", "label": "Postman", "icon": "/skills/postman.png" },
-      {
-        "name": "Cloudflare",
-        "label": "Cloudflare",
-        "icon": "/skills/cloudflare.png"
-      }
+      { "name": "Postman", "label": "Postman", "icon": "/skills/postman.png" }
     ]
   },
   "Achievements": {
